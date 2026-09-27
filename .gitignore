@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+apienv/
+venv/
+.venv/
+
+# Local configuration and databases
+.env
+db.sqlite3
+db.sqlite3-journal
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
